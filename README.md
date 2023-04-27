@@ -1,7 +1,7 @@
 ## Fekete Gergely
 
 2. dolgozat megoldása 
-Feladat 0359 
+Feladat 0358
 
 /*
 
