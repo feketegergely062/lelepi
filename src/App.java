@@ -14,13 +14,13 @@ public class App {
         System.out.println("Feladat: 0358");
         System.out.print("Keszitette: Fekete Gergely, Szoft/1/N 2023-04-27\n ");
         Scanner szamit = new Scanner(System.in);  
-        System.out.println("Add meg a paralepid A oldalat");
+        System.out.println("Add meg a paralepid A oldalat: ");
 
         double Aold = szamit.nextDouble();
-        System.out.println("Add meg a paralepid B oldalat");
+        System.out.println("Add meg a paralepid B oldalat: ");
 
         double Bold = szamit.nextDouble();
-        System.out.println("Add meg a paralepid C oldalat");
+        System.out.println("Add meg a paralepid C oldalat: ");
 
         double Cold = szamit.nextDouble();
         System.out.println("Az értéke: ");
